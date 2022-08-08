@@ -2,6 +2,8 @@
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#微信公众号推送文章中的视频
+@@/vlive.qqvideo.tc.qq.com/*.mp4
 #小米wifi工具箱
 @@||file.market.xiaomi.com^$app=com.xiaomi.router
 i茅台云购
