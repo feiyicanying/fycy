@@ -1,13 +1,13 @@
-! Version: 202208
+! Version: 20220811
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #抖音商品评价
-@@||aweme-lq.snssdk.com^
+@@||aweme-lq.snssdk.com^$important
 #蜜雪冰城app2022年七夕活动
 @@76177.activity-12.m.duiba.com.cn
 #小米云服务同步数据
-@@micloud.xiaomi.net
+@@||micloud.xiaomi.net^$important
 #i茅台云抢购
 @@sfp.safe.baidu.com
 #4399游戏盒签到验证码
@@ -31,7 +31,7 @@
 #360百科
 @@||s*.ssl.qhres2.com^$important
 #wps微信小程序签到领会员
-@@dl.op.wpscdn.cn
+@@||dl.op.wpscdn.cn^$important
 @@||vipapi.wps.cn^$important
 127.0.0.1 v.gdt.qq.com
 @@/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/
