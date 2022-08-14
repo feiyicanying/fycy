@@ -1,7 +1,9 @@
-! Version: 20220811
+! Version: 20220814
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#阿里云数据统计
+@@||log.aliyuncs.com^$important
 #字节跳动数据统计
 @@||i.snssdk.com^$important
 #抖音商品评价
