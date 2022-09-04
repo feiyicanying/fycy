@@ -9,6 +9,7 @@
 @@||getui.com^$important
 @@||tgpa.imtmp.net^$important
 #阿里云数据统计
+@@||irs*.com^$important
 @@||log.aliyuncs.com^$important
 #字节跳动数据统计
 @@||i.snssdk.com^$important
@@ -496,7 +497,6 @@
 127.0.0.1 idx.m.hub.sandai.net
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 m.bss.pandora.xiaomi.com
-127.0.0.1 m.irs01.com
 127.0.0.1 master.wap.dphub.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 r.browser.miui.com
@@ -571,7 +571,6 @@
 127.0.0.1 71.am
 127.0.0.1 msg.71.am
 127.0.0.1 iqiyi.kim
-127.0.0.1 iqiyi.irs01.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 api-t.iqiyi.com
 127.0.0.1 msg.video.qiyi.com
@@ -778,10 +777,6 @@
 127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 irs01.com
-127.0.0.1 z.irs01.com
-127.0.0.1 s.irs03.com
-127.0.0.1 s1.irs03.com
 127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 ppvabs.pplive.com
 127.0.0.1 log.ad.xiaomi.com
@@ -877,7 +872,6 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 da.mmarket.com
-127.0.0.1 sohu.irs01.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
@@ -959,7 +953,6 @@
 127.0.0.1 orange-dc.youku.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 video-ad.sm.cn
-127.0.0.1 rest.irs01.com
 127.0.0.1 px.ucweb.com
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 timeserver.cnzz.net
@@ -1805,16 +1798,6 @@
 127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 umdc.aliapp.org
 #pkg=xxx.ad.doubleclick.net;广告联盟
-127.0.0.1 a.irs01.com
-127.0.0.1 bitauto.irs01.com
-127.0.0.1 h.irs01.com
-127.0.0.1 letv.irs01.com
-127.0.0.1 pcauto.irs01.com
-127.0.0.1 qq.irs01.com
-127.0.0.1 v.irs01.com
-127.0.0.1 v12-r0566gbscjw.z.irs01.com
-127.0.0.1 yyt.irs01.com
-127.0.0.1 s9.irs03.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
@@ -2606,7 +2589,6 @@
 ||image.uczzd.cn
 ||img1.360buyimg.com
 ||appjiagu.com
-||irs01.com
 ||etl.xlmc.sandai.net
 ||clickc.admaster.com.cn
 ||media.admob.com
@@ -3078,7 +3060,6 @@
 127.0.0.1 wd.adcolony.com
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 telemetry.sdk.inmobi.com
-127.0.0.1 px.effirst.com
 127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 static.duoshuo.com
 127.0.0.1 config.unityads.unitychina.cn
@@ -3262,7 +3243,6 @@
 127.0.0.1 pm-gateway.supersonicads.com
 127.0.0.1 errlog.umeng.com
 127.0.0.1 dig.bdurl.net
-127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
 127.0.0.1 ccc.sys.miui.com
@@ -3483,10 +3463,7 @@
 127.0.0.1 upload_data.qq.com
 127.0.0.1 serveraddrweb.kugou.com
 127.0.0.1 adservice.kugou.com
-127.0.0.1 9447_s72f5a8e.gw.irs03.com
-127.0.0.1 2393_s72f5a8e.gw.irs03.com
 127.0.0.1 cdn.ravenjs.com
-127.0.0.1 9452_s72f5a8e.gw.irs03.com
 127.0.0.1 bv.lnk0.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 qring-tms.qq.com
