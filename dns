@@ -2,6 +2,7 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+20.205.243.166 raw.githubusercontent.com
 #快手直播网页版
 @@||log-sdk.ksapisrv.com^$important
 #数据统计
@@ -2558,7 +2559,6 @@
 ||adsstatic.vivo.com.cn
 ||adxlog.vivo.com.cn
 ||stnetsdk.appstore.vivo.com.cn
-||monitor-stsdk.vivo.com.cn
 ||onrt-stsdk.vivo.com.cn
 ||ort-stsdk.vivo.com.cn
 ||pnrt-stsdk.vivo.com.cn
