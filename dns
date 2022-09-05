@@ -1317,28 +1317,6 @@
 127.0.0.1 dataf.ads.oppomobile.com
 127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 uapi.ads.oppomobile.com
-127.0.0.1 adlog.vivo.com.cn
-127.0.0.1 adreq.vivo.com.cn
-127.0.0.1 adsdk.vivo.com.cn
-127.0.0.1 adsstatic.vivo.com.cn
-127.0.0.1 adxlog.vivo.com.cn
-127.0.0.1 stnetsdk.appstore.vivo.com.cn
-127.0.0.1 monitor-stsdk.vivo.com.cn
-127.0.0.1 onrt-stsdk.vivo.com.cn
-127.0.0.1 ort-stsdk.vivo.com.cn
-127.0.0.1 pnrt-stsdk.vivo.com.cn
-127.0.0.1 prt-stsdk.vivo.com.cn
-127.0.0.1 stnetsdk.vivo.com.cn
-127.0.0.1 stsdk.vivo.com.cn
-127.0.0.1 bronrt.stsdk.vivo.com.cn
-127.0.0.1 brort.stsdk.vivo.com.cn
-127.0.0.1 brpnrt.stsdk.vivo.com.cn
-127.0.0.1 brprt.stsdk.vivo.com.cn
-127.0.0.1 onrt.stsdk.vivo.com.cn
-127.0.0.1 ort.stsdk.vivo.com.cn
-127.0.0.1 pnrt.stsdk.vivo.com.cn
-127.0.0.1 prt.stsdk.vivo.com.cn
-127.0.0.1 vcardsdkservice.vivo.com.cn
 127.0.0.1 dig.zjurl.cn
 127.0.0.1 www.qchannel01.cn
 127.0.0.1 www.qchannel02.cn
@@ -2551,27 +2529,6 @@
 ||dataf.ads.oppomobile.com
 ||g1.ads.oppomobile.com
 ||uapi.ads.oppomobile.com
-#vivo手机广告
-||adlog.vivo.com.cn
-||adreq.vivo.com.cn
-||adsdk.vivo.com.cn
-||adsstatic.vivo.com.cn
-||adxlog.vivo.com.cn
-||stnetsdk.appstore.vivo.com.cn
-||onrt-stsdk.vivo.com.cn
-||ort-stsdk.vivo.com.cn
-||pnrt-stsdk.vivo.com.cn
-||prt-stsdk.vivo.com.cn
-||stnetsdk.vivo.com.cn
-||bronrt.stsdk.vivo.com.cn
-||brort.stsdk.vivo.com.cn
-||brpnrt.stsdk.vivo.com.cn
-||brprt.stsdk.vivo.com.cn
-||onrt.stsdk.vivo.com.cn
-||ort.stsdk.vivo.com.cn
-||pnrt.stsdk.vivo.com.cn
-||prt.stsdk.vivo.com.cn
-||vcardsdkservice.vivo.com.cn
 #酷狗音乐广告
 ||ads.service.kugou.com
 ||adserviceretry.kugou.com
@@ -2679,7 +2636,6 @@
 ||ads*-adnow.com
 ||admob.*
 ||*log.droid4x.cn
-||*tsdk.vivo.com.cn
 ||sf*-ttcdn-tos.pstatp.com
 127.0.0.1 dh.pdcniubi.top
 127.0.0.1 ms.applvn.com
@@ -2739,7 +2695,6 @@
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 ads3-normal-lf.zijieapi.com
 127.0.0.1 appconf.heytapdownload.com
-127.0.0.1 pointsdk.vivo.com.cn
 127.0.0.1 doh.ptqy.gitv.tv
 127.0.0.1 xiaomi-mipdx.cn.miaozhen.com
 127.0.0.1 commdata.v.qq.com
@@ -2965,7 +2920,6 @@
 127.0.0.1 kepler.51y5.net
 127.0.0.1 b-gtc.getui.net
 127.0.0.1 taichi.51y5.net
-127.0.0.1 systemort-stsdk.vivo.com.cn
 127.0.0.1 cfs-alps.51y5.net
 127.0.0.1 report.tv.kohesport.qq.com
 127.0.0.1 msg.push.51y5.net
@@ -2975,9 +2929,7 @@
 127.0.0.1 lf6-webcastcdn-tos.douyinstatic.com
 127.0.0.1 dcmdae.51y5.net
 127.0.0.1 ups.ksmobile.net
-127.0.0.1 pfpdonrt-stsdk.vivo.com.cn
 127.0.0.1 user.51y5.net
-127.0.0.1 systemonrt-stsdk.vivo.com.cn
 127.0.0.1 v6z.cupid.iqiyi.com
 127.0.0.1 web-trace.ksapisrv.com
 127.0.0.1 adshows.21cn.com
@@ -2997,7 +2949,6 @@
 127.0.0.1 geoclue.smaato.net
 127.0.0.1 config.jpush.cn
 127.0.0.1 gamedelivery.bj.bcebos.com
-127.0.0.1 fastort-stsdk.vivo.com.cn
 127.0.0.1 cmts.iqiyi.com
 127.0.0.1 emoticon-sns.iqiyi.com
 127.0.0.1 nl-rcd.iqiyi.com
@@ -3017,7 +2968,6 @@
 127.0.0.1 fair.optaim.com
 127.0.0.1 s2.cnzz.com
 127.0.0.1 c-gtc.getui.net
-127.0.0.1 fastonrt-stsdk.vivo.com.cn
 127.0.0.1 knicks.jd.com
 127.0.0.1 f0cced0f3fe0e7845b4593fe54277599.clo.footprintdns.com
 127.0.0.1 mrw.so
@@ -3045,7 +2995,6 @@
 127.0.0.1 nadvideo2.baidu.com
 127.0.0.1 miav-cse.avlyun.com
 127.0.0.1 api5.tuisong.baidu.com
-127.0.0.1 appstoreonrt-stsdk.vivo.com.cn
 127.0.0.1 stat.fyeds3.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 badjs.qq.com
@@ -3081,7 +3030,6 @@
 127.0.0.1 serveraddr.service.kugou.com
 127.0.0.1 huatuocode.weiyun.com
 127.0.0.1 line1-log.biligame.net
-127.0.0.1 appstoreort-stsdk.vivo.com.cn
 127.0.0.1 router.tracking.miui.com
 127.0.0.1 dualstack-logs.amap.com
 127.0.0.1 ic.wps.cn
@@ -3332,8 +3280,6 @@
 127.0.0.1 yoda.kwd.inkuai.com
 127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 api2.tuisong.baidu.com
-127.0.0.1 gsearch.vivo.com.cn
-127.0.0.1 img.wsdl.vivo.com.cn
 127.0.0.1 emdl.ws.microsoft.com
 127.0.0.1 www.sina.com.cn
 127.0.0.1 stat.kuaizhan.com
@@ -3354,7 +3300,6 @@
 127.0.0.1 growth.ecombdapi.com
 127.0.0.1 gfwsl.geforce.com
 127.0.0.1 v3-y-qos-control.douyinvod.com
-127.0.0.1 moni-onrt-stsdk.vivo.com.cn
 127.0.0.1 inference.location.live.net
 127.0.0.1 dns.weixin.qq.com.cn
 127.0.0.1 nadvideo.baidu.com
@@ -3628,3 +3573,39 @@
 127.0.0.1 mum.m.alibaba.com
 127.0.0.1 analytics.95516.com
 127.0.0.1 config.cmpassport.com
+#vivo手机广告
+||*tsdk.vivo.com.cn
+127.0.0.1 adlog.vivo.com.cn
+127.0.0.1 adreq.vivo.com.cn
+127.0.0.1 adsdk.vivo.com.cn
+127.0.0.1 adsstatic.vivo.com.cn
+127.0.0.1 adxlog.vivo.com.cn
+127.0.0.1 stnetsdk.appstore.vivo.com.cn
+127.0.0.1 monitor-stsdk.vivo.com.cn
+127.0.0.1 onrt-stsdk.vivo.com.cn
+127.0.0.1 ort-stsdk.vivo.com.cn
+127.0.0.1 pnrt-stsdk.vivo.com.cn
+127.0.0.1 prt-stsdk.vivo.com.cn
+127.0.0.1 stnetsdk.vivo.com.cn
+127.0.0.1 stsdk.vivo.com.cn
+127.0.0.1 bronrt.stsdk.vivo.com.cn
+127.0.0.1 brort.stsdk.vivo.com.cn
+127.0.0.1 brpnrt.stsdk.vivo.com.cn
+127.0.0.1 brprt.stsdk.vivo.com.cn
+127.0.0.1 onrt.stsdk.vivo.com.cn
+127.0.0.1 ort.stsdk.vivo.com.cn
+127.0.0.1 pnrt.stsdk.vivo.com.cn
+127.0.0.1 prt.stsdk.vivo.com.cn
+127.0.0.1 vcardsdkservice.vivo.com.cn
+127.0.0.1 adlog.vivo.com.cn
+127.0.0.1 pointsdk.vivo.com.cn
+127.0.0.1 systemort-stsdk.vivo.com.cn
+127.0.0.1 pfpdonrt-stsdk.vivo.com.cn
+127.0.0.1 systemonrt-stsdk.vivo.com.cn
+127.0.0.1 fastort-stsdk.vivo.com.cn
+127.0.0.1 fastonrt-stsdk.vivo.com.cn
+127.0.0.1 appstoreonrt-stsdk.vivo.com.cn
+127.0.0.1 appstoreort-stsdk.vivo.com.cn
+127.0.0.1 gsearch.vivo.com.cn
+127.0.0.1 img.wsdl.vivo.com.cn
+127.0.0.1 moni-onrt-stsdk.vivo.com.cn
