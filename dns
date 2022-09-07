@@ -1,7 +1,12 @@
-! Version: 20220905
+! Version: 20220907
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#i茅台
+@@||sofire.bdstatic.com^
+@@||sofire.baidu.com^
+@@sfp.safe.baidu.com
+@@||badjs.weixinbridge.com^
 #快手直播网页版
 @@||log-sdk.ksapisrv.com^$important
 #数据统计
@@ -19,8 +24,6 @@
 @@76177.activity-12.m.duiba.com.cn
 #小米云服务同步数据
 @@||micloud.xiaomi.net^$important
-#i茅台云抢购
-@@sfp.safe.baidu.com
 #4399游戏盒签到验证码
 @@||castatic.fengkongcloud.com^$important
 #百度智能小程序
