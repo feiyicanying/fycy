@@ -1,7 +1,11 @@
-! Version: 20220907
+! Version: 20220914
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#微信腾讯新闻
+@@||inews.gtimg.com^$important
+@@||isee.weishi.qq.com^$important
+@@||guanjia.qq.com^$important
 #百家号图片
 @@||f*.baidu.com^
 #i茅台
@@ -1737,7 +1741,6 @@
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 rmpad.imtt.qq.com
-127.0.0.1 isee.weishi.qq.com
 127.0.0.1 dp3.qq.comqq
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 mig.str.mdt.qq.com
@@ -2980,7 +2983,6 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 transit1.wslog.chinanetcenter.com
-127.0.0.1 inews.gtimg.com
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 image.9game.cn
 127.0.0.1 mtalk.google.com
@@ -3311,7 +3313,6 @@
 127.0.0.1 tuijian.sogou.com
 127.0.0.1 khrtac.xiangha.com
 127.0.0.1 bd1.xiangha.com
-127.0.0.1 guanjia.qq.com
 127.0.0.1 aod-image.baidu.com
 127.0.0.1 ping.cloud.tencent.com
 127.0.0.1 sa5.tuisong.baidu.com
