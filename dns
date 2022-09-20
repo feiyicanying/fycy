@@ -2901,14 +2901,12 @@
 127.0.0.1 udpolimeok.baidu.com
 127.0.0.1 mime.baidu.com
 127.0.0.1 appinvoke.51y5.net
-127.0.0.1 d2-push.static.yximgs.com
 127.0.0.1 d2-yoda.a.kwimgs.com
 127.0.0.1 d2-ec.a.kwimgs.com
 127.0.0.1 d2-reco.a.kwimgs.com
 127.0.0.1 d2-ks.a.kwimgs.com
 127.0.0.1 dcmdaa.51y5.net
 127.0.0.1 dc.51y5.net
-127.0.0.1 d2-magic.static.yximgs.com
 127.0.0.1 mon11-misc-hl.amemv.com
 127.0.0.1 d2.a.kwimgs.com
 127.0.0.1 d2-kkd.a.kspkg.com
@@ -2971,7 +2969,6 @@
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 imgstat.baidu.com
 127.0.0.1 log-stat.yousuode.cn
-127.0.0.1 ali2-course.video.yximgs.com
 127.0.0.1 fair.optaim.com
 127.0.0.1 s2.cnzz.com
 127.0.0.1 c-gtc.getui.net
@@ -3022,9 +3019,7 @@
 127.0.0.1 cm.bilibili.com
 127.0.0.1 gdfp.gifshow.com
 127.0.0.1 pangolin.snssdk.com
-127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 lbs.netease.im
-127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 upload.ksapisrv.com
 127.0.0.1 api.iplay.163.com
 127.0.0.1 gtc.getui.net
@@ -3065,7 +3060,6 @@
 127.0.0.1 adashx.ut.amap.com
 127.0.0.1 assets.mintegral.com
 127.0.0.1 c.gridsumdissector.com
-127.0.0.1 js-ad.a.yximgs.com
 127.0.0.1 tracert.alipay.com
 127.0.0.1 res.imtt.qq.com
 127.0.0.1 report.imtt.qq.com
