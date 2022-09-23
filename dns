@@ -1,4 +1,4 @@
-! Version: 20220922
+! Version: 20220923
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -2995,7 +2995,6 @@
 127.0.0.1 feed-image.baidu.com
 127.0.0.1 accscdn.m.taobao.com
 127.0.0.1 trackingprd.hwwt8.com
-127.0.0.1 web.vortex.data.microsoft.com
 127.0.0.1 adashx.ut.cainiao.com
 127.0.0.1 nadvideo2.baidu.com
 127.0.0.1 miav-cse.avlyun.com
@@ -3092,9 +3091,7 @@
 127.0.0.1 count.cnblogs.com
 127.0.0.1 analytics.cnblogs.com
 127.0.0.1 cdn-gcs.outfit7.com
-127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 pubsub02.oray.net
-127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 14.au.download.windowsupdate.com
 127.0.0.1 cm-10-53.getui.com
 127.0.0.1 cm-10-54.getui.com
@@ -3103,7 +3100,6 @@
 127.0.0.1 qqdata.ab.qq.com
 127.0.0.1 events-api.outfit7.com
 127.0.0.1 crystalapp.miguvideo.com
-127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 events-api-ak.outfit7.com
 127.0.0.1 xn--gov-x68dy61b.shop
 127.0.0.1 mis.migc.xiaomi.com
@@ -3180,7 +3176,6 @@
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 auth.be.sec.miui.com
 127.0.0.1 etl-xlmc-ssl.sandai.net
-127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 logs.ironsrc.mobi
 127.0.0.1 cl-data.ads.heytapmobi.com
 127.0.0.1 guc-api.sonic-us.supersonicads.com
@@ -3222,7 +3217,6 @@
 127.0.0.1 d.kugou.com
 127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 beacons.gvt2.com
-127.0.0.1 umwatson.events.data.microsoft.com
 127.0.0.1 amdc.alipay.com
 127.0.0.1 report.huatuo.qq.com
 127.0.0.1 access1.tpns.tencent.com
@@ -3282,7 +3276,6 @@
 127.0.0.1 yoda.kwd.inkuai.com
 127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 api2.tuisong.baidu.com
-127.0.0.1 emdl.ws.microsoft.com
 127.0.0.1 www.sina.com.cn
 127.0.0.1 stat.kuaizhan.com
 127.0.0.1 v1-ollqv.onewsvod.com
@@ -3292,7 +3285,6 @@
 127.0.0.1 ems.youku.com
 127.0.0.1 switch.pcfg.cache.wpscdn.cn
 127.0.0.1 v9-ollqv.onewsvod.com
-127.0.0.1 www.telecommandsvc.microsoft.com
 127.0.0.1 v3-cold2.douyinvod.com
 127.0.0.1 lyra.iscrv.com
 127.0.0.1 njc-download.weiyun.com
@@ -3397,7 +3389,6 @@
 127.0.0.1 mweb.bssdl.kugou.com
 127.0.0.1 status.geotrust.com
 127.0.0.1 cdp.geotrust.com
-127.0.0.1 ieonline.microsoft.com
 127.0.0.1 srtb.msn.com
 127.0.0.1 www.bizographics.com
 127.0.0.1 c.msn.cn
@@ -3446,7 +3437,6 @@
 127.0.0.1 retcode.you.163.com
 127.0.0.1 whzp.epro.sogou.com
 127.0.0.1 ntp.msn.cn
-127.0.0.1 api.edgeoffer.microsoft.com
 127.0.0.1 top.baidu.com
 127.0.0.1 ocspx.digicert.com
 127.0.0.1 s0.hao123img.com
@@ -3456,7 +3446,6 @@
 127.0.0.1 c.hiphotos.baidu.com
 127.0.0.1 api-cn.store.heytapmobi.com
 127.0.0.1 xinpub.bj.bcebos.com
-127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 www.oceanengine.com
 127.0.0.1 cloudi.browser.heytapmobi.com
 127.0.0.1 verify.snssdk.com
@@ -3597,7 +3586,6 @@
 127.0.0.1 pnrt.stsdk.vivo.com.cn
 127.0.0.1 prt.stsdk.vivo.com.cn
 127.0.0.1 vcardsdkservice.vivo.com.cn
-127.0.0.1 adlog.vivo.com.cn
 127.0.0.1 pointsdk.vivo.com.cn
 127.0.0.1 systemort-stsdk.vivo.com.cn
 127.0.0.1 pfpdonrt-stsdk.vivo.com.cn
@@ -3609,3 +3597,48 @@
 127.0.0.1 gsearch.vivo.com.cn
 127.0.0.1 img.wsdl.vivo.com.cn
 127.0.0.1 moni-onrt-stsdk.vivo.com.cn
+127.0.0.1 n.baminw.com.cn
+127.0.0.1 h.sora.yoyi.com.cn
+127.0.0.1 cn-vmc-images.alicdn.com
+127.0.0.1 mercury.push.tv.sohu.com
+127.0.0.1 track.uc.cn
+127.0.0.1 gsp0.baidu.com
+127.0.0.1 b.bdstatic.com
+127.0.0.1 smartad.10010.com
+127.0.0.1 t.rainide.com
+127.0.0.1 smartop-sdkapi.jiguang.cn
+127.0.0.1 gm.mmstat.com
+127.0.0.1 ck.ads.heytapmobi.com
+127.0.0.1 api.danmu.tv.sohu.com
+127.0.0.1 act.vip.iqiyi.com
+127.0.0.1 itachi.aty.sohu.com
+127.0.0.1 bd.hd.sohu.com
+127.0.0.1 sdk.push.mob.com
+127.0.0.1 wkctj.baidu.com
+127.0.0.1 px.effirst.com
+127.0.0.1 www.pangolin-dsp-toutiao.com
+127.0.0.1 applog-perf.uc.cn
+127.0.0.1 s.qhupdate.com
+127.0.0.1 yk-ssp.ad.youku.com
+127.0.0.1 baikebcs.bdimg.com
+127.0.0.1 etl-xlmc-ssl.xunlei.com
+127.0.0.1 lf3-plat.pglstatp-toutiao.com
+127.0.0.1 gslb.hpplay.cn
+127.0.0.1 hub5idx.shub.hz.sandai.net
+127.0.0.1 dlswbr.baidu.com
+127.0.0.1 report-stats.ad.jiguang.cn
+127.0.0.1 logu.hpplay.cn
+127.0.0.1 hub5idx.shub.sandai.net
+127.0.0.1 ykad-data.youku.com
+127.0.0.1 c-gtc.gepush.com
+127.0.0.1 tracker.sns.ptqy.gitv.tv
+127.0.0.1 stats.mokeedev.com
+127.0.0.1 event.toggle.qq.com
+127.0.0.1 mars.jd.com
+127.0.0.1 masdkv6.3g.qq.com
+127.0.0.1 athena-api.oceanengine.com
+127.0.0.1 ofloc.map.baidu.com
+127.0.0.1 bjim64.jpush.cn
+127.0.0.1 configv2.unityads.unitychina.cn
+127.0.0.1 umini.shujupie.com
+127.0.0.1 image.cdn.pandora.xiaomi.com
