@@ -2,6 +2,10 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#小米电视
+@@||stat.pandora.xiaomi.com^$important
+@@||image.cdn.pandora.xiaomi.com^$important
+@@||de.pandora.xiaomi.com^
 #微软
 @@||microsoft.com^
 #快手
@@ -477,7 +481,6 @@
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 shenghuo.xiaomi.com
-127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 mini.cpc.sogou.com
@@ -713,7 +716,6 @@
 127.0.0.1 config.kuyun.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 dvb.pandora.xiaomi.com
-127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 gallery.pandora.xiaomi.com
 127.0.0.1 gvod.aiseejapp.atianqi.com
@@ -3641,4 +3643,3 @@
 127.0.0.1 bjim64.jpush.cn
 127.0.0.1 configv2.unityads.unitychina.cn
 127.0.0.1 umini.shujupie.com
-127.0.0.1 image.cdn.pandora.xiaomi.com
