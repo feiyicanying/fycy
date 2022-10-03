@@ -1,7 +1,8 @@
-! Version: 20220929
+! Version: 20221003
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+127.0.0.1 api.miwifi.com
 #QQ表情
 @@||tpstelemetry.tencent.com^
 #小米电视
