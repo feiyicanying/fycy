@@ -1,10 +1,11 @@
-! Version: 20221004
+! Version: 20221008
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #小米路由器
 @@api.miwifi.com
 #QQ表情
+@@otheve.beacon.qq.com
 @@||tpstelemetry.tencent.com^
 #小米电视
 @@||stat.pandora.xiaomi.com^$important
@@ -1743,7 +1744,6 @@
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 api.poll.aiseet.atianqi.com
 127.0.0.1 btrace.qq.com
-127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 misc.wcd.qq.com
 127.0.0.1 raddus.bayescom.com
