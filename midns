@@ -1,26 +1,4 @@
 0.9.9.9 micro.game.xiaomi.com
-0.9.9.9 tongji.dcloud.io
-0.9.9.9 c2.gdt.qq.com
-0.9.9.9 smartad.10010.com
-0.9.9.9 sepro.baidu.com
-0.9.9.9 analytics.10010.com
-0.9.9.9 f1.g.mi.com
-0.9.9.9 dingbu.bj.bcebos.com
-0.9.9.9 api.fc.mob.com
-0.9.9.9 vali-g1.cp31.ott.cibntv.net
-0.9.9.9 ipm.atm.youku.com
-0.9.9.9 www.shouyou.xy.com
-0.9.9.9 ems.youku.com
-0.9.9.9 ad-center.huajiao.com
-0.9.9.9 cinema-pics-drcn.dbankcdn.com
-0.9.9.9 ad.hzyoka.com
-0.9.9.9 common.jbzj.com
-0.9.9.9 static.jbzj.com
-0.9.9.9 api.qvpublish.com
-0.9.9.9 ap1.qiyukf.com
-0.9.9.9 bdapi.ads.oppomobile.com
-0.9.9.9 api.similm.me
-0.9.9.9 api.fd.mob.com
 0.9.9.9 wkbrs2.tingyun.com
 0.9.9.9 beacon.tingyun.com
 0.9.9.9 count.mail.163.com
@@ -535,7 +513,6 @@
 0.9.9.9 optimus-ads.amap.com
 0.9.9.9 exceptionlog.kugou.com
 0.9.9.9 gdfp.ksapisrv.com
-0.9.9.9 assistant.duokanbox.com
 0.9.9.9 hd.browser.miui.com
 0.9.9.9 t-i.gridsumdissector.com
 0.9.9.9 bjuser.jpush.cn
@@ -597,7 +574,6 @@
 0.9.9.9 ads5-normal-hl.zijieapi.com
 0.9.9.9 cdn-api-verify.mob.com
 0.9.9.9 zconfig.alibabausercontent.com
-0.9.9.9 msga.ptqy.gitv.tv
 0.9.9.9 h-adashx.ut.cainiao.com
 0.9.9.9 e.tapdb.net
 0.9.9.9 event.tradplusad.com
@@ -742,7 +718,6 @@
 0.9.9.9 developer.toutiao.com
 0.9.9.9 api-t.iqiyi.com
 0.9.9.9 paopao-monitor.iqiyi.com
-0.9.9.9 gslb.hpplay.cn
 0.9.9.9 xlog.snssdk.com
 0.9.9.9 cards-css.iqiyi.com
 0.9.9.9 firebase-settings.crashlytics.com
@@ -773,7 +748,6 @@
 0.9.9.9 adashx.ut.amap.com
 0.9.9.9 msgv6.qy.net
 0.9.9.9 kjp.cupid.iqiyi.com
-0.9.9.9 redirect.pandora.xiaomi.com
 0.9.9.9 milink.pandora.xiaomi.com
 0.9.9.9 sl-log.oray.net
 0.9.9.9 perf-events.cloud.unity3d.com
@@ -799,7 +773,6 @@
 0.9.9.9 event.toggle.qq.com
 0.9.9.9 sdk.e.qq.com
 0.9.9.9 pubsub02.oray.net
-0.9.9.9 pb.bi.gitv.tv
 0.9.9.9 tmead.y.qq.com
 0.9.9.9 adash.man.aliyuncs.com
 0.9.9.9 game.eve.mdt.qq.com
@@ -826,7 +799,6 @@
 0.9.9.9 logs.amap.com
 0.9.9.9 dualstack-logs.amap.com
 0.9.9.9 tnc3-alisc1.zijieapi.com
-0.9.9.9 rp.hpplay.cn
 0.9.9.9 dm.toutiao.com
 0.9.9.9 auth.be.sec.miui.com
 0.9.9.9 adstats.tencentmusic.com
@@ -842,7 +814,6 @@
 0.9.9.9 android.rqd.qq.com
 0.9.9.9 gslb-cn.cdo.heytapmobi.com
 0.9.9.9 mixer.cupid.ptqy.gitv.tv
-0.9.9.9 vipauth.hpplay.cn
 0.9.9.9 cgi.connect.qq.com
 0.9.9.9 ynuf.aliapp.org
 0.9.9.9 appstoreort-stsdk.vivo.com.cn
@@ -851,9 +822,6 @@
 0.9.9.9 router.tracking.miui.com
 0.9.9.9 hm.baidu.com
 0.9.9.9 gdfp.gifshow.com
-0.9.9.9 tvapp.hpplay.cn
-0.9.9.9 conf.hpplay.cn
-0.9.9.9 sdkauth.hpplay.cn
 0.9.9.9 log.tbs.qq.com
 0.9.9.9 ulogs.umeng.com
 0.9.9.9 ulogs.umengcloud.com
@@ -888,7 +856,6 @@
 0.9.9.9 ulogjs.gifshow.com
 0.9.9.9 cloudi.browser.heytapmobi.com
 0.9.9.9 mobilelog.kugou.com
-0.9.9.9 t7z.cupid.ptqy.gitv.tv
 0.9.9.9 httpdns.bcelive.com
 0.9.9.9 ii.gdt.qq.com
 0.9.9.9 clientservices.googleapis.com
@@ -918,16 +885,9 @@
 0.9.9.9 update.wps.cn
 0.9.9.9 id6.me
 0.9.9.9 oth.eve.mdt.qq.com
-0.9.9.9 pandora.mi.com
-0.9.9.9 api.ad.xiaomi.com
-0.9.9.9 diagnosis.ad.xiaomi.com
 0.9.9.9 v2.get.sogou.com
 0.9.9.9 ad.qqfarmer.com.cn
-0.9.9.9 metok.sys.miui.com
-0.9.9.9 sdkconfig.ad.xiaomi.com
-0.9.9.9 tracking.miui.com
 0.9.9.9 mon.snssdk.com
-0.9.9.9 resolver.msg.xiaomi.net
 0.9.9.9 browserkernel.baidu.com
 0.9.9.9 collector.dcdn.baidu.com
 0.9.9.9 als.baidu.com
@@ -963,10 +923,8 @@
 0.9.9.9 tracker.ai.xiaomi.com
 0.9.9.9 ali-stats.jpush.cn
 0.9.9.9 g.cn.miaozhen.com
-0.9.9.9 video.market.xiaomi.com
 0.9.9.9 is.snssdk.com
 0.9.9.9 analytics.aty.sohu.com
-0.9.9.9 app.chat.xiaomi.net
 0.9.9.9 package.box.xiaomi.com
 0.9.9.9 www.bytedance.com
 0.9.9.9 qqdata.ab.qq.com
@@ -974,7 +932,6 @@
 0.9.9.9 stg-data.ads.heytapmobi.com
 0.9.9.9 mon.zijieapi.com
 0.9.9.9 hectorstatic.baidu.com
-0.9.9.9 input.shouji.sogou.com
 0.9.9.9 fp-it.fengkongcloud.com
 0.9.9.9 sp1.baidu.com
 0.9.9.9 tdid.m.qq.com
@@ -984,7 +941,6 @@
 0.9.9.9 ecmb.bdimg.com
 0.9.9.9 mobads.baidu.com
 0.9.9.9 beacon-api.aliyuncs.com
-0.9.9.9 msg.ptqy.gitv.tv
 0.9.9.9 pimlog.baidu.com
 0.9.9.9 agn.aty.sohu.com
 0.9.9.9 mtalk.google.com
@@ -1002,7 +958,6 @@
 0.9.9.9 errlog.umeng.com
 0.9.9.9 data.sec.miui.com
 0.9.9.9 sdk.push.mob.com
-0.9.9.9 ccc.sys.miui.com
 0.9.9.9 tnc3-aliec2.zijieapi.com
 0.9.9.9 vcl-brain.snssdk.com
 0.9.9.9 tangram-config.gdt.qq.com
