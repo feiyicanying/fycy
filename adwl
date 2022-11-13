@@ -1,6 +1,8 @@
-! Version: 20221101
+! Version: 20221113
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
+#德克士+微信小程序
+@@||tasty.xunliandata.com^$app=com.tencent.mm
 #QQ
 @@||otheve.beacon.qq.com^
 ! by:飞翼丶残影
@@ -9,6 +11,7 @@
 #qq表情
 @@||tpstelemetry.tencent.com^$app=com.tencent.mobileqq
 #i茅台
+@@||sfp.safe.baidu.com^$app=com.moutai.mall
 @@||sofire.baidu.com^$app=com.moutai.mall
 @@||badjs.weixinbridge.com^$app=com.moutai.mall
 #快手直播网页版
