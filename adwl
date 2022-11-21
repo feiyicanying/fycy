@@ -1,6 +1,8 @@
 ! Version: 20221121
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
+#小米应用商店
+@@||sf0.market.xiaomi.com^$app=com.xiaomi.market
 #微信公众号评论区头像
 @@||wx.qlogo.cn^$app=com.tencent.mm
 #QQ运动排行榜头像
