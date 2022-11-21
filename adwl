@@ -1,6 +1,10 @@
-! Version: 20221113
+! Version: 20221121
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
+#微信公众号评论区头像
+@@||wx.qlogo.cn^$app=com.tencent.mm
+#QQ运动排行榜头像
+@@||thirdqq.qlogo.cn^$app=com.tencent.mobileqq
 #德克士+微信小程序
 @@||tasty.xunliandata.com^$app=com.tencent.mm
 #QQ
