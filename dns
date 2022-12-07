@@ -1,7 +1,17 @@
-! Version: 20221130
+! Version: 20221207
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#夸克浏览器
+@@broccoli.uc.cn
+@@||t.uc.cn^
+@@||usync.uc.cn^
+@@||pdds.ucweb.com^$important
+@@||pan.quark.cn^$important
+@@||drive.quark.cn^
+#讯飞输入法
+@@imeclient.openspeech.cn
+@@log.voicecloud.cn
 #哔哩哔哩
 @@||app.bilibili.com^$important
 #微信公众号评论区头像
@@ -95,8 +105,6 @@
 @@||cdn.h5wan.4399sj.com^$important
 #哔哩哔哩网页版登陆
 @@||passport.bigfun.cn^$important
-#扫码登陆夸克网盘网页版
-@@||t.uc.cn^
 #登陆天翼云盘
 @@||e.189.cn^$important
 #百度官网
@@ -117,14 +125,6 @@
 @@||soft.flash.cn^$important
 #支付宝看15秒广告领消费金
 @@||tns.simba.taobao.com^
-#夸克浏览器导航云同步
-@@||usync.uc.cn^
-#夸克网盘pc版下载
-@@||pdds.ucweb.com^$important
-#夸克网盘官网
-@@||pan.quark.cn^$important
-#夸克网盘文件读取
-@@||drive.quark.cn^
 #360网站信息检测
 @@||qurl.f.360.cn^$important
 #手机QQ厘米秀表情包
@@ -318,8 +318,6 @@
 @@||land.xiaomi.net^$important
 #小米官网跳转
 @@||www.xiaomi.com^$important
-#讯飞输入法app下载更新
-@@log.voicecloud.cn
 #miui预置应用恢复
 @@||control.preload.xiaomi.com^$important
 #手机微博网页版
@@ -3868,3 +3866,164 @@
 127.0.0.1 tvmanager.sys.tv.mi.com
 127.0.0.1 ad.qqfarmer.com.cn
 127.0.0.1 analytics.aty.sohu.com
+127.0.0.1 log-upload.mihoyo.com
+127.0.0.1 auth.api.gitv.tv
+127.0.0.1 d.xfinfr.com
+127.0.0.1 conf-darwin.xycdn.com
+127.0.0.1 seeds-darwin.xycdn.com
+127.0.0.1 file.market.xiaomi.com
+127.0.0.1 m.qpic.cn
+127.0.0.1 httpdns.alicdn.com
+127.0.0.1 hybrid.kwd.inkuai.com
+127.0.0.1 centertime.ksyun.com
+127.0.0.1 bdbus-turbonet.baidu.com
+127.0.0.1 kuaishou.httpdns.pro
+127.0.0.1 api.kingdata.ksyun.com
+127.0.0.1 yk-ssp-ad.cp31.ott.cibntv.net
+127.0.0.1 obus-dc20157-cn.heytapmobi.com
+127.0.0.1 hc.tdm.qq.com
+127.0.0.1 mpush-api.aliyun.com
+127.0.0.1 sfepodownload.mediatek.com
+127.0.0.1 seeds-open.xycdn.com
+127.0.0.1 preview.jupiter.sys.miui.com
+127.0.0.1 httpdns.c.cdnhwc2.com
+127.0.0.1 spo-ring.msedge.net
+127.0.0.1 dragate.dc.oppomobile.com
+127.0.0.1 resolver.mi.xiaomi.com
+127.0.0.1 slink.ksapisrv.com
+127.0.0.1 app.market.xiaomi.com
+127.0.0.1 nbcollect.kugou.com
+127.0.0.1 conn1.oppomobile.com
+127.0.0.1 metrics1-drcn.dt.dbankcloud.cn
+127.0.0.1 apijs.ksapisrv.com
+127.0.0.1 apisnd.heytapmobi.com
+127.0.0.1 kste.ksapisrv.com
+127.0.0.1 jupiter.sys.miui.com
+127.0.0.1 api.jits.heytapmobi.com
+127.0.0.1 flash.sec.miui.com
+127.0.0.1 search-operate.cdn.bcebos.com
+127.0.0.1 firebaseinstallations.googleapis.com
+127.0.0.1 gdfpsec.ksapisrv.com
+127.0.0.1 i.magazine.heytapmobi.com
+127.0.0.1 live-p2p-center.ksapisrv.com
+127.0.0.1 wjz-cdn.baidu.com
+127.0.0.1 jmy-pic.baidu.com
+127.0.0.1 conf-cn.dc.heytapmobi.com
+127.0.0.1 m.video.xiaomi.com
+127.0.0.1 livejs.ksapisrv.com
+127.0.0.1 apihb6.ksapisrv.com
+127.0.0.1 l1.xfinfr.com
+127.0.0.1 slog.trackingio.com
+127.0.0.1 store.assistant.miui.com
+127.0.0.1 grs.dbankcloud.com
+127.0.0.1 geomobileservices-pa.googleapis.com
+127.0.0.1 guide-acs.m.taobao.com
+127.0.0.1 dnkeeper.platform.dbankcloud.cn
+127.0.0.1 beian.miit.gov.cn
+127.0.0.1 api.assistant.miui.com
+127.0.0.1 apd-pcdnvodstat.teg.tencent-cloud.net
+127.0.0.1 ec3-core-lq.ecombdapi.com
+127.0.0.1 game.subway.uu.cc
+127.0.0.1 livejs2.ksapisrv.com
+127.0.0.1 sd-gl.xycdn.com
+127.0.0.1 ec5-core-lq.ecombdapi.com
+127.0.0.1 ecom5-normal-lq.ecombdapi.com
+127.0.0.1 ossp.voicecloud.cn
+127.0.0.1 activity.baidu.com
+127.0.0.1 planconfig.openspeech.cn
+127.0.0.1 ctldl.windowsupdate.com
+127.0.0.1 data.sms.heytapmobi.com
+127.0.0.1 apijs2.ksapisrv.com
+127.0.0.1 sdkapiv2.bizport.cn
+127.0.0.1 ecom3-normal-lq.ecombdapi.com
+127.0.0.1 m.mpl.dutils.com
+127.0.0.1 x.research.qq.com
+127.0.0.1 newclient.map.baidu.com
+127.0.0.1 itop.qq.com
+127.0.0.1 log-eap.coloros.com
+127.0.0.1 passport.voicecloud.cn
+127.0.0.1 q1.qlogo.cn
+127.0.0.1 ubacollect-drcn.cloud.dbankcloud.cn
+127.0.0.1 videoclip.apps.coloros.com
+127.0.0.1 omes-sec.heytapmobi.com
+127.0.0.1 in.appcenter.ms
+127.0.0.1 graph.facebook.com
+127.0.0.1 api.sec.miui.comtrashcleaner
+127.0.0.1 open-cms-api.uc.cn
+127.0.0.1 obus-dc2020-cn.heytapmobi.com
+127.0.0.1 log.trackingio.com
+127.0.0.1 sgepodownload.mediatek.com
+127.0.0.1 pn-cover.cdn.bcebos.com
+127.0.0.1 ec5-core-hl.ecombdapi.com
+127.0.0.1 ecom5-normal-hl.ecombdapi.com
+127.0.0.1 api-exc.dutils.com
+127.0.0.1 devs-data.dutils.com
+127.0.0.1 3gimg.qq.com
+127.0.0.1 play.kakao.com
+127.0.0.1 p.qlogo.cn
+127.0.0.1 accscdn.cp12.ott.cibntv.net
+127.0.0.1 www.vod.lxdns.com
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 huatuo.weiyun.com
+127.0.0.1 heyi-acs.cp31.ott.cibntv.net
+127.0.0.1 hybrid.miniapp.taobao.com
+127.0.0.1 adx.tv.mi.com
+127.0.0.1 d1x3rdo.jscvalves.me
+127.0.0.1 g7qkuuz.jscvalves.me
+127.0.0.1 api.geo.kontagent.net
+127.0.0.1 file.xmpush.xiaomi.com
+127.0.0.1 win.gdt.qq.com
+127.0.0.1 g.live.com
+127.0.0.1 dlied6.qq.com
+127.0.0.1 push.kwd.inkuai.com
+127.0.0.1 push-rtmp-l29.douyincdn.com
+127.0.0.1 hub5pnc.sandai.net
+127.0.0.1 data.bilibili.com
+127.0.0.1 push.gifshow.com
+127.0.0.1 stat.tiara.kakao.com
+127.0.0.1 hub5u.wap.sandai.net
+127.0.0.1 p2-play.edge4k.com
+127.0.0.1 tv.sohu.com
+127.0.0.1 www.letv.com
+127.0.0.1 report.meituan.com
+127.0.0.1 p1-play.edge4k.com
+127.0.0.1 bj.bcebos.com
+127.0.0.1 cn.gravatar.com
+127.0.0.1 www.chengzijianzhan.com
+127.0.0.1 cdn-settings.appsflyersdk.com
+127.0.0.1 spread.sm.cn
+127.0.0.1 js.jrjimg.cn
+127.0.0.1 so.m.sm.cn
+127.0.0.1 hub5u.sandai.net
+127.0.0.1 hub5pn.sandai.net
+127.0.0.1 music-pics-drcn.dbankcdn.com
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 jquery.envi-met.com.cn
+127.0.0.1 learning.quark.cn
+127.0.0.1 pageview.kgsz.cn
+127.0.0.1 voice-panel.bj.bcebos.com
+127.0.0.1 soa-vip-ssl.xunlei.com
+127.0.0.1 ads-img-al.xhscdn.com
+127.0.0.1 adx-drcn.op.dbankcloud.cn
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 plusjrmallstatic.bj.bcebos.com
+127.0.0.1 unpm-upaas.uc.cn
+127.0.0.1 safe1.shouji.sogou.com
+127.0.0.1 tracker.didistatic.com
+127.0.0.1 ipv6.shuzilm.cn
+127.0.0.1 app.gdt.qq.com
+127.0.0.1 ido.gepush.com
+127.0.0.1 p.zol-img.com.cn
+127.0.0.1 js.zol.com.cn
+127.0.0.1 c-ido.gepush.com
+127.0.0.1 ws.szfhl99.com
+127.0.0.1 ido.getui.net
+127.0.0.1 pyk.in-neo.cn
+127.0.0.1 pvtest.zol.com.cn
+127.0.0.1 c-ido.getui.net
+127.0.0.1 telecom.shuzilm.cn
+127.0.0.1 mobile.shuzilm.cn
+127.0.0.1 ws.wqdwork.com
+127.0.0.1 unicom.shuzilm.cn
+127.0.0.1 hh.zhhbqg.com
+127.0.0.1 pvnwap.zol.com.cn
