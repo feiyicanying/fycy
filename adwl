@@ -1,6 +1,21 @@
-! Version: 20221126
+! Version: 20221207
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
+#小米浏览器
+@@||hot.browser.miui.com^
+@@||t*.a.market.xiaomi.com^
+#快手
+@@||log-sdk.ksapisrv.com^
+@@||yximgs.com^
+@@||ulog*.ksapisrv.com^
+@@||js.a.kspkg.com^
+#抖音
+@@||d.toutiao.com^
+@@||lianmengapi*-core-lq.ecombdapi.com^
+@@||lianmengapi-lq.snssdk.com^
+@@sf*-ttcdn-tos.pstatp.com^
+@@lf*-effectcdn-tos.pstatp.com^
+@@||lianmengapi-lq.snssdk.com^
 #小米应用商店
 @@||203.107.1.1^
 @@||sf0.market.xiaomi.com^$app=com.xiaomi.market
@@ -21,8 +36,6 @@
 @@||sfp.safe.baidu.com^$app=com.moutai.mall
 @@||sofire.baidu.com^$app=com.moutai.mall
 @@||badjs.weixinbridge.com^$app=com.moutai.mall
-#快手直播网页版
-@@||log-sdk.ksapisrv.com^$important
 #微信公众号推送文章中的视频
 @@/vlive.qqvideo.tc.qq.com/*.mp4
 #小米wifi工具箱
@@ -39,8 +52,6 @@ i茅台云购
 @@||www.gorouter.info^$app=com.xiaomi.router
 #淘宝特卖
 @@||temai.m.taobao.com^$document
-#抖音购物
-@@||lianmengapi*-core-lq.ecombdapi.com^$app=com.ss.android.ugc.aweme
 #360百科手机版
 @@||m.baike.so.com^$document
 #QQ官网手机版下载QQ app
@@ -64,18 +75,12 @@ i茅台云购
 @@||api-access.pangolin-sdk-toutiao-b.com^$app=com.sofunny.Sausage
 #夸克网盘pc版下载
 @@||pdds.ucweb.com^$important
-#快手用户头像和评论区图片
-@@||yximgs.com^
-#抖音直播购物车
-@@||lianmengapi-lq.snssdk.com^$app=com.ss.android.ugc.aweme
 #集享联盟app领券中心
 @@||app.maxxipoint.com^$app=com.maxxipoint.android
 #QQ浏览器小说章节读取
 @@||novel.html5.qq.com/be-api/content/ads-read$app=com.tencent.mtt
 #解决小米主题铃声闪退
 @@||market.xiaomi.com^$replace=/"adInfo"/""/
-#快手关注按时间排序
-@@||ulog*.ksapisrv.com^$app=com.smile.gifmaker
 #天翼云盘网页版
 @@||cloud.189.cn^$document
 #百度搜索pc版取消屏蔽百度网址
@@ -106,12 +111,8 @@ gitee.com$@$script[tag-content="adsbygoogle"]
 @@||api.comm.miui.com/calendar^$app=com.android.calendar
 #爱奇艺视频详情页
 @@&ad_type=$app=com.qiyi.video
-#抖音小游戏
-@@sf*-ttcdn-tos.pstatp.com$app=com.ss.android.ugc.aweme
 #支付宝商家服务-小店福利
 @@||air.1688.com^$app=com.eg.android.AlipayGphone
-#抖音特效下载
-@@lf*-effectcdn-tos.pstatp.com$app=com.ss.android.ugc.aweme
 #解决酷安闪退
 @@||api.coolapk.com/v6/main/indexV8$replace=/entities/sb/
 #苏州公交实时查询
@@ -142,8 +143,6 @@ gitee.com$@$script[tag-content="adsbygoogle"]
 @@||pan.baidu.com/api/analytics?
 #淘宝金币小镇显示头像
 @@||wwc.alicdn.com^$app=com.taobao.taobao
-#抖音火山版直播购物车
-@@||lianmengapi-lq.snssdk.com^$app=com.ss.android.ugc.live
 #德克士微信小程序
 @@||h5.youzan.com^$app=com.tencent.mm
 @@||dicos.e.verystar.net^$app=com.tencent.mm
