@@ -2,6 +2,11 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#小米浏览器
+@@||hot.browser.miui.com^
+@@||t*.a.market.xiaomi.com^
+#快手
+@@||js.a.kspkg.com^
 #夸克浏览器
 @@broccoli.uc.cn
 @@||t.uc.cn^
@@ -491,11 +496,6 @@
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 mini.cpc.sogou.com
-127.0.0.1 t1.a.market.xiaomi.com
-127.0.0.1 t2.a.market.xiaomi.com
-127.0.0.1 t3.a.market.xiaomi.com
-127.0.0.1 t4.a.market.xiaomi.com
-127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
@@ -796,7 +796,6 @@
 127.0.0.1 x.adnet.qq.com
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 127.0.0.1 video.market.xiaomi.com
-127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 clickc.admaster.com.cn
@@ -2394,9 +2393,6 @@
 ||sug.browser.miui.com
 ||r.browser.miui.com
 ||nav.browser.miui.com
-  #小米视频APP广告
-||t1.a.market.xiaomi.com
-||t2.a.market.xiaomi.com
   #小米应用商店
 ||file-market-xiaomi.yfcdn.net
   #小米遥控器
@@ -3073,7 +3069,6 @@
 127.0.0.1 report.imtt.qq.com
 127.0.0.1 map-mobile-opnimg.cdn.bcebos.com
 127.0.0.1 dorangesource.alicdn.com
-127.0.0.1 hot.browser.miui.com
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 upload.fp.measure.office.com
 127.0.0.1 291725a03ec3c31aef1e20762eccc63b.fp.measure.office.com
@@ -3277,7 +3272,6 @@
 127.0.0.1 track.vzhifu.net
 127.0.0.1 apm.zuoyebang.com
 127.0.0.1 ext.baidu.com
-127.0.0.1 js.a.kspkg.com
 127.0.0.1 p3.adkwai.com
 127.0.0.1 static-s.iqiyi.com
 127.0.0.1 yoda.kwd.inkuai.com
