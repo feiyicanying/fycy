@@ -1,4 +1,4 @@
-! Version: 202208
+! Version: 20221207
 ! Title:adgd
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -187,7 +187,6 @@ gameapp.qq.com###J_inner_tips > div.tips-bd:last-child
 ||adashbc.ut.taobao.com^
 ||aegis.qq.com^
 ||sdkconfig.ad.xiaomi.com^
-||hot.browser.miui.com^
 ||api.browser.miui.com/bsr/update/banners^
 ||hd.browser.miui.com^
 ||hm.baidu.com^
@@ -237,7 +236,6 @@ $$div[class="-ad-"]
 ||dlswbr.baidu.com^
 baike.baidu.com$$div[class="relative-shop-"]
 baike.baidu.com$$div[class="s-items J-items"]
-||a.market.xiaomi.com^
 .live.xunlei.com^
 ||e.qq.com
 ||extlog.snssdk.com^
