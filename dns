@@ -2,6 +2,10 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#讯飞输入法
+@@imeclient.openspeech.cn
+@@log.voicecloud.cn
+@@||passport.voicecloud.cn^
 #小米应用商店
 @@||app.market.xiaomi.com^
 #小米浏览器
@@ -16,9 +20,6 @@
 @@||pdds.ucweb.com^$important
 @@||pan.quark.cn^$important
 @@||drive.quark.cn^
-#讯飞输入法
-@@imeclient.openspeech.cn
-@@log.voicecloud.cn
 #哔哩哔哩
 @@||app.bilibili.com^$important
 #微信公众号评论区头像
@@ -3936,7 +3937,6 @@
 127.0.0.1 newclient.map.baidu.com
 127.0.0.1 itop.qq.com
 127.0.0.1 log-eap.coloros.com
-127.0.0.1 passport.voicecloud.cn
 127.0.0.1 q1.qlogo.cn
 127.0.0.1 ubacollect-drcn.cloud.dbankcloud.cn
 127.0.0.1 videoclip.apps.coloros.com
