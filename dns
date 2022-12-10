@@ -1,7 +1,9 @@
-! Version: 20221207
+! Version: 20221210
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#小米应用商店
+@@||app.market.xiaomi.com^
 #小米浏览器
 @@||hot.browser.miui.com^
 @@||t*.a.market.xiaomi.com^
@@ -3885,7 +3887,6 @@
 127.0.0.1 dragate.dc.oppomobile.com
 127.0.0.1 resolver.mi.xiaomi.com
 127.0.0.1 slink.ksapisrv.com
-127.0.0.1 app.market.xiaomi.com
 127.0.0.1 nbcollect.kugou.com
 127.0.0.1 conn1.oppomobile.com
 127.0.0.1 metrics1-drcn.dt.dbankcloud.cn
