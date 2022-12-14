@@ -1,7 +1,9 @@
-! Version: 20221213
+! Version: 20221214
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#腾讯
+@@||qlogo.cn^$important
 #miui小组件
 @@||store.assistant.miui.com^$important
 #讯飞输入法
@@ -24,8 +26,6 @@
 @@||drive.quark.cn^
 #哔哩哔哩
 @@||app.bilibili.com^$important
-#微信公众号评论区头像
-@@wx.qlogo.cn
 #快手直播购物车预览图
 @@||ecukwai.com^
 #小米路由器
@@ -107,8 +107,6 @@
 @@||ssl.ptlogin2.qq.com^$important
 #支付宝消费金领淘宝红包
 @@||ai.m.taobao.com^$important
-#QQ电脑版群头像加载显示
-@@thirdqq.qlogo.cn
 #追书大师下载更新
 @@||at.umtrack.com^$important
 #4399我的世界登陆
@@ -3939,7 +3937,6 @@
 127.0.0.1 newclient.map.baidu.com
 127.0.0.1 itop.qq.com
 127.0.0.1 log-eap.coloros.com
-127.0.0.1 q1.qlogo.cn
 127.0.0.1 ubacollect-drcn.cloud.dbankcloud.cn
 127.0.0.1 videoclip.apps.coloros.com
 127.0.0.1 omes-sec.heytapmobi.com
@@ -3957,7 +3954,6 @@
 127.0.0.1 devs-data.dutils.com
 127.0.0.1 3gimg.qq.com
 127.0.0.1 play.kakao.com
-127.0.0.1 p.qlogo.cn
 127.0.0.1 accscdn.cp12.ott.cibntv.net
 127.0.0.1 www.vod.lxdns.com
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
