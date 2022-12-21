@@ -2,6 +2,15 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#夸克
+@@||news.quark.cn^$important
+@@||covid.myquark.cn^$important
+@@broccoli.uc.cn
+@@||t.uc.cn^
+@@||usync.uc.cn^
+@@||pdds.ucweb.com^$important
+@@||pan.quark.cn^$important
+@@||drive.quark.cn^
 #腾讯
 @@||qlogo.cn^$important
 #miui小组件
@@ -16,14 +25,7 @@
 @@||hot.browser.miui.com^
 @@||t*.a.market.xiaomi.com^
 #快手
-@@||js.a.kspkg.com^
-#夸克浏览器
-@@broccoli.uc.cn
-@@||t.uc.cn^
-@@||usync.uc.cn^
-@@||pdds.ucweb.com^$important
-@@||pan.quark.cn^$important
-@@||drive.quark.cn^
+@@||js.a.kspkg.com
 #哔哩哔哩
 @@||app.bilibili.com^$important
 #快手直播购物车预览图
