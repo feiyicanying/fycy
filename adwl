@@ -1,6 +1,8 @@
-! Version: 20221207
+! Version: 20221224
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
+#德克士app
+@@||app-api.dicos.com.cn^$app=com.dicos.prod
 #小米浏览器
 @@||hot.browser.miui.com^
 @@||t*.a.market.xiaomi.com^
