@@ -1,7 +1,9 @@
-! Version: 20221214
+! Version: 20221224
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#QQ邮箱邮件网址跳转
+@@||email-link.adtidy.org^$important
 #夸克
 @@||news.quark.cn^$important
 @@||covid.myquark.cn^$important
