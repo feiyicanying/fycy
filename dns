@@ -1,4 +1,4 @@
-! Version: 20221224
+! Version: 20230109
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -43,7 +43,6 @@
 @@||de.pandora.xiaomi.com^
 #微软
 @@||microsoft.com^
-#快手
 @@||yximgs.com^
 @@||_*_
 #微信腾讯新闻
@@ -4024,3 +4023,75 @@
 127.0.0.1 unicom.shuzilm.cn
 127.0.0.1 hh.zhhbqg.com
 127.0.0.1 pvnwap.zol.com.cn
+127.0.0.1 api-unionid.meituan.com
+127.0.0.1 usr-api.aiclk.com
+127.0.0.1 monitor-check.ad.xiaomi.com
+127.0.0.1 tmfsdktcp.m.qq.com
+127.0.0.1 mdp-appconf-sg.heytapdl.com
+127.0.0.1 datk.anythinktech.com
+127.0.0.1 tmfsdk4.m.qq.com
+127.0.0.1 tracelog-debug.aiclk.com
+127.0.0.1 a1.qpic.cn
+127.0.0.1 img.gamecenter.qq.com
+127.0.0.1 dfe-mic.mob.com
+127.0.0.1 api.anythinktech.com
+127.0.0.1 logrcv.aiclk.com
+127.0.0.1 cstaticdun.126.net
+127.0.0.1 api-share.mob.com
+127.0.0.1 p.gdown.baidu.com
+127.0.0.1 adx-cn.anythinktech.com
+127.0.0.1 cpc-service-square.aiclk.com
+127.0.0.1 gameresource.itop.qq.com
+127.0.0.1 downpack.baidu.com
+127.0.0.1 iflow.uc.cn
+127.0.0.1 deeplink.umeng.com
+127.0.0.1 statres.quickapp.cn
+127.0.0.1 firevent.jd.com
+127.0.0.1 m.uczzd.cn
+127.0.0.1 paas-push-api-log.immomo.com
+127.0.0.1 mb.yidianzixun.com
+127.0.0.1 cf.3g.qq.com
+127.0.0.1 dm.wo.com.cn
+127.0.0.1 jzt.jd.com
+127.0.0.1 lf6-ad-union-sdk.pglstatp-toutiao.com
+127.0.0.1 v2.aiclk.com
+127.0.0.1 api.growingio.com
+127.0.0.1 i.tddmp.com
+127.0.0.1 dos-track.domob.cn
+127.0.0.1 million-api.aiclk.com
+127.0.0.1 oss.cdn.aiclk.com
+127.0.0.1 api.admix.in
+127.0.0.1 apppush-sh5.xiaohongshu.com
+127.0.0.1 sdktmp.hubcloud.com.cn
+127.0.0.1 msfwifi.3g.qq.com
+127.0.0.1 hub5u.hz.sandai.net
+127.0.0.1 sptest.baidu.com
+127.0.0.1 nexusrules.officeapps.live.com
+127.0.0.1 grs.dbankcloud.cn
+127.0.0.1 p1-lm.adkwai.com
+127.0.0.1 vtm.sm.cn
+127.0.0.1 order-api.sm.cn
+127.0.0.1 grs.dbankcloud.asia
+127.0.0.1 openjmacs4uc.m.taobao.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 ad.zijieapi.com
+127.0.0.1 coral2.uc.cn
+127.0.0.1 pan-api.quark.cn
+127.0.0.1 mt66g.com
+127.0.0.1 boss.qzone.qq.com
+127.0.0.1 ln.zhiqi.pub
+127.0.0.1 report.taptapdada.com
+127.0.0.1 fusion.qq.com
+127.0.0.1 log-hl.snssdk.com
+127.0.0.1 sclick.baidu.com
+127.0.0.1 vs8.bj2cu.u3.ucweb.com
+127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 androidads4-5.adcolony.com
+127.0.0.1 mbsts.cp12.ott.cibntv.net
+127.0.0.1 playable.oceanengine.com
+127.0.0.1 grs.dbankcloud.eu
+127.0.0.1 partner.uc.cn
+127.0.0.1 orange.cp12.ott.cibntv.net
+127.0.0.1 cdn.jcelyj.com
+127.0.0.1 hiboard.dbankcdn.com
+127.0.0.1 hub5pn.hz.sandai.net
