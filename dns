@@ -1,7 +1,9 @@
-! Version: 20230109
+! Version: 20230113
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#讯飞输入法检测更新
+@@||ossp.voicecloud.cn^
 #QQ邮箱邮件网址跳转
 @@||email-link.adtidy.org^$important
 #夸克
@@ -3927,7 +3929,6 @@
 127.0.0.1 sd-gl.xycdn.com
 127.0.0.1 ec5-core-lq.ecombdapi.com
 127.0.0.1 ecom5-normal-lq.ecombdapi.com
-127.0.0.1 ossp.voicecloud.cn
 127.0.0.1 activity.baidu.com
 127.0.0.1 planconfig.openspeech.cn
 127.0.0.1 ctldl.windowsupdate.com
