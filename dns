@@ -1,9 +1,7 @@
-! Version: 20230113
+! Version: 20230118
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
-#讯飞输入法检测更新
-@@||ossp.voicecloud.cn^
 #QQ邮箱邮件网址跳转
 @@||email-link.adtidy.org^$important
 #夸克
@@ -20,6 +18,7 @@
 #miui小组件
 @@||store.assistant.miui.com^$important
 #讯飞输入法
+@@||ossp.voicecloud.cn^
 @@imeclient.openspeech.cn
 @@log.voicecloud.cn
 @@||passport.voicecloud.cn^
@@ -54,6 +53,7 @@
 #百家号图片
 @@||f*.baidu.com^
 #i茅台
+@@||cstaticdun.126.net^
 @@||sofire.bdstatic.com^
 @@||sofire.baidu.com^
 @@sfp.safe.baidu.com
