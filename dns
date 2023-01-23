@@ -2,6 +2,13 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#快手
+@@||api.zt.kuaishou.com^$important
+@@||ulogs1.ksapisrv.com^$important
+@@||log-sdk.ksapisrv.com^$important
+@@||ecukwai.com^
+@@||api*.e.kuaishou.com^
+@@||js.a.kspkg.com
 #PC版QQ群头像
 @@||ii.gdt.qq.com^$important
 #QQ邮箱邮件网址跳转
@@ -30,12 +37,8 @@
 #小米浏览器
 @@||hot.browser.miui.com^
 @@||t*.a.market.xiaomi.com^
-#快手
-@@||js.a.kspkg.com
 #哔哩哔哩
 @@||app.bilibili.com^$important
-#快手直播购物车预览图
-@@||ecukwai.com^
 #小米路由器
 @@api.miwifi.com
 #QQ表情
@@ -61,8 +64,6 @@
 @@||sofire.baidu.com^
 @@sfp.safe.baidu.com
 @@||badjs.weixinbridge.com^
-#快手直播网页版
-@@||log-sdk.ksapisrv.com^$important
 #数据统计
 @@||sngdia.imtmp.net^$important
 @@||getui.com^$important
@@ -153,8 +154,6 @@
 @@||api.sec.miui.com^$important
 #优酷视频app视频预览图
 @@||liangcang-material.alicdn.com^$important
-#快手关注的人
-@@||ulogs1.ksapisrv.com^$important
 #小米游戏加速迅游加速器
 @@||pay.wsds.cn^$important
 #360官网
@@ -183,8 +182,6 @@
 @@||events.gfe.nvidia.com^$important
 #抖音小游戏
 @@||sf*-ttcdn-tos.pstatp.com
-#快手直播
-@@||api.zt.kuaishou.com^$important
 #小米天气底部推荐
 @@f4.market.xiaomi.com
 @@||wtradv.market.xiaomi.com^
@@ -1270,8 +1267,6 @@
 127.0.0.1 newswifiapi.dftoutiao.com
 127.0.0.1 rtbapi.douyucdn.cn
 127.0.0.1 msg.douyu.com
-127.0.0.1 api.e.kuaishou.com
-127.0.0.1 api2.e.kuaishou.com
 127.0.0.1 log-dmp.suishenyun.cn
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 adlog.tagtic.cn
