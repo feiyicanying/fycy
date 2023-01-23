@@ -1,4 +1,4 @@
-! Version: 20221224
+! Version: 20230123
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 #德克士app
@@ -7,11 +7,13 @@
 @@||hot.browser.miui.com^
 @@||t*.a.market.xiaomi.com^
 #快手
+@@||api*.e.kuaishou.com^$app=com.smile.gifmaker
 @@||log-sdk.ksapisrv.com^
 @@||yximgs.com^
 @@||ulog*.ksapisrv.com^
 @@||js.a.kspkg.com^
 #抖音
+@@||lianmengapi*-core-lf.ecombdapi.com^$app=com.ss.android.ugc.aweme
 @@||d.toutiao.com^
 @@||lianmengapi*-core-lq.ecombdapi.com^
 @@||lianmengapi-lq.snssdk.com^
