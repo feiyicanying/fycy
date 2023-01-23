@@ -1,10 +1,11 @@
-! Version: 20230118
+! Version: 20230123
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #QQ邮箱邮件网址跳转
 @@||email-link.adtidy.org^$important
 #夸克
+@@||quark-api.uc.cn^
 @@||news.quark.cn^$important
 @@||covid.myquark.cn^$important
 @@broccoli.uc.cn
@@ -4037,7 +4038,6 @@
 127.0.0.1 dfe-mic.mob.com
 127.0.0.1 api.anythinktech.com
 127.0.0.1 logrcv.aiclk.com
-127.0.0.1 cstaticdun.126.net
 127.0.0.1 api-share.mob.com
 127.0.0.1 p.gdown.baidu.com
 127.0.0.1 adx-cn.anythinktech.com
