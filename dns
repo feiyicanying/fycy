@@ -1,7 +1,15 @@
-! Version: 20230123
+! Version: 20230124
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#QQ
+@@||tianshu.gtimg.cn^
+@@||pub.idqqimg.com^$important
+@@cmshow.gtimg.cn
+@@||ssl.ptlogin2.qq.com^$important
+@@||email-link.adtidy.org^$important
+@@||ii.gdt.qq.com^$important
+@@||tpstelemetry.tencent.com^
 #快手
 @@||api.zt.kuaishou.com^$important
 @@||ulogs1.ksapisrv.com^$important
@@ -9,10 +17,6 @@
 @@||ecukwai.com^
 @@||api*.e.kuaishou.com^
 @@||js.a.kspkg.com
-#PC版QQ群头像
-@@||ii.gdt.qq.com^$important
-#QQ邮箱邮件网址跳转
-@@||email-link.adtidy.org^$important
 #夸克
 @@||quark-api.uc.cn^
 @@||news.quark.cn^$important
@@ -41,9 +45,6 @@
 @@||app.bilibili.com^$important
 #小米路由器
 @@api.miwifi.com
-#QQ表情
-@@otheve.beacon.qq.com
-@@||tpstelemetry.tencent.com^
 #小米电视
 @@||stat.pandora.xiaomi.com^$important
 @@||image.cdn.pandora.xiaomi.com^$important
@@ -112,8 +113,6 @@
 @@||c.pc.qq.com^$important
 #香肠派对登陆
 @@||api.xd.com^
-#QQ空间网页版登陆
-@@||ssl.ptlogin2.qq.com^$important
 #支付宝消费金领淘宝红包
 @@||ai.m.taobao.com^$important
 #追书大师下载更新
@@ -144,8 +143,6 @@
 @@||tns.simba.taobao.com^
 #360网站信息检测
 @@||qurl.f.360.cn^$important
-#手机QQ厘米秀表情包
-@@cmshow.gtimg.cn
 #抖音小黄车
 @@||lianmengapi-lq.snssdk.com^$important
 #西瓜视频作者主页
@@ -306,8 +303,6 @@
 @@||api-aicall.aiasst.xiaomi.com^$important
 #广告终结者规则更新网址
 @@||sub.adtchrome.com^$important
-#手机QQ群荣誉设置
-@@||pub.idqqimg.com^$important
 #今日头条app播放视频
 @@||toutiaovod.com^$important
 #迅雷云盘上传文件
@@ -392,8 +387,6 @@
 @@||cdn.fds-ssl.api.xiaomi.com^
 #小米路由app检测更新
 @@||lxcdn.dl.files.xiaomi.net^
-#手机QQ打卡
-@@||tianshu.gtimg.cn^
 #QQ浏览器热点资讯
 @@||jsapi.html5.qq.com^
 #支付宝数据收集
