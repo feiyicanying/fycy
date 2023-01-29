@@ -1,8 +1,9 @@
-! Version: 20230124
+! Version: 20230129
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #QQ
+@@||aeventlog.beacon.qq.com^
 @@||tianshu.gtimg.cn^
 @@||pub.idqqimg.com^$important
 @@cmshow.gtimg.cn
@@ -18,6 +19,7 @@
 @@||api*.e.kuaishou.com^
 @@||js.a.kspkg.com
 #夸克
+@@||uop.quark.cn^$important
 @@||quark-api.uc.cn^
 @@||news.quark.cn^$important
 @@||covid.myquark.cn^$important
