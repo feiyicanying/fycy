@@ -1,4 +1,4 @@
-! Version: 20230224
+! Version: 20230303
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -14,6 +14,7 @@
 @@||ii.gdt.qq.com^$important
 @@||tpstelemetry.tencent.com^
 #快手
+@@||kwimgs.com^$important
 @@||api.zt.kuaishou.com^$important
 @@||ulogs1.ksapisrv.com^$important
 @@||log-sdk.ksapisrv.com^$important
