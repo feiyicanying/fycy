@@ -3,11 +3,13 @@
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #支付宝
+@@||ilce.alicdn.com^
 @@||guide-acs.m.taobao.com^
 @@||ai.m.taobao.com^$important
 #lastpass密码存储器
 @@||lastpass.com^$important
 #QQ
+@@||otheve.beacon.qq.com^
 @@||aeventlog.beacon.qq.com^
 @@||tianshu.gtimg.cn^
 @@||pub.idqqimg.com^$important
@@ -1770,7 +1772,6 @@
 127.0.0.1 unidesk.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 baichuan-sdk.alicdn.com
-127.0.0.1 ilce.alicdn.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 proxy-mob-cld.alicdn.com
 127.0.0.1 www.uyunad.com
@@ -4194,7 +4195,6 @@
 127.0.0.1 enews10.yxlady.net
 127.0.0.1 adv.api.mucfc.com
 127.0.0.1 aicleaner.shouji.360.cn
-127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 push.seetong.com
 127.0.0.1 a.applvn.com
 127.0.0.1 mc.atm.youku.com
