@@ -1,7 +1,10 @@
-! Version: 20230303
+! Version: 20230311
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#支付宝
+@@||guide-acs.m.taobao.com^
+@@||ai.m.taobao.com^$important
 #lastpass密码存储器
 @@||lastpass.com^$important
 #QQ
@@ -117,8 +120,6 @@
 @@||c.pc.qq.com^$important
 #香肠派对登陆
 @@||api.xd.com^
-#支付宝消费金领淘宝红包
-@@||ai.m.taobao.com^$important
 #追书大师下载更新
 @@||at.umtrack.com^$important
 #4399我的世界登陆
@@ -3913,7 +3914,6 @@
 127.0.0.1 store.assistant.miui.com
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 geomobileservices-pa.googleapis.com
-127.0.0.1 guide-acs.m.taobao.com
 127.0.0.1 dnkeeper.platform.dbankcloud.cn
 127.0.0.1 beian.miit.gov.cn
 127.0.0.1 api.assistant.miui.com
