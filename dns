@@ -1,4 +1,4 @@
-! Version: 20230313
+! Version: 20230315
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -405,6 +405,9 @@
 #其他
 @@sngdia.imtmp.net
 #AD DNS
+127.0.0.1 kde.qq.com
+127.0.0.1 report.nfa.qq.com
+127.0.0.1 sdkapiv2.bizport.cn
 127.0.0.1 api-shoulei-ssl.xunlei.com
 ||huatuocode.weiyun.com^
 ||*be-pack.pglstatp-toutiao.com^
