@@ -2,6 +2,10 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#饿了么
+@@||ele.me^
+@@||tanx.com
+@@apilocate.amap.com
 #支付宝
 @@||ilce.alicdn.com^
 @@||guide-acs.m.taobao.com^
@@ -205,9 +209,6 @@
 @@||market.mi-img.com
 #小米日历节气节日介绍
 @@||api.comm.miui.com^$important
-#饿了么
-@@||tanx.com
-@@apilocate.amap.com
 #miui刷机包下载
 @@||hugeota.d.miui.com^$important
 #微博头条文章
@@ -2736,13 +2737,10 @@
 127.0.0.1 zzhc.vnet.cn
 127.0.0.1 account.migc.g.mi.com
 127.0.0.1 h-adashx.ut.cainiao.com
-127.0.0.1 adashx.ut.ele.me
 127.0.0.1 vconf.f.360.cn
 127.0.0.1 sg01.rayjump.com
-127.0.0.1 app-monitor.ele.me
 127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 mi.beha.ksmobile.com
-127.0.0.1 h-adashx.ut.ele.me
 127.0.0.1 scene.vip.xunlei.com
 127.0.0.1 adashx.ut.youku.com
 127.0.0.1 skdisplay.jd.com
@@ -2756,7 +2754,6 @@
 127.0.0.1 youku-jmacs.m.taobao.com
 127.0.0.1 appstore.ptmi.gitv.tv
 127.0.0.1 privacyportal.onetrust.com
-127.0.0.1 grand.ele.me
 127.0.0.1 log.web.kugou.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 tyks.m.cn.miaozhen.com
