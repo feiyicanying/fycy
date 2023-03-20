@@ -1,4 +1,4 @@
-! Version: 20230315
+! Version: 20230321
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -13,6 +13,7 @@
 #lastpass密码存储器
 @@||lastpass.com^$important
 #QQ
+@@||a.app.qq.com^
 @@||otheve.beacon.qq.com^
 @@||aeventlog.beacon.qq.com^
 @@||tianshu.gtimg.cn^
@@ -67,7 +68,8 @@
 @@||microsoft.com^
 @@||yximgs.com^
 @@||_*_
-#微信腾讯新闻
+#微信
+@@||wxsnsdythumb.wxs.qq.com^
 @@||inews.gtimg.com^$important
 @@||isee.weishi.qq.com^$important
 @@||guanjia.qq.com^$important
