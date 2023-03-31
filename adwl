@@ -1,4 +1,4 @@
-! Version: 20230123
+! Version: 20230331
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -50,7 +50,8 @@ i茅台云购
 @@||tns.simba.taobao.com^$app=com.eg.android.AlipayGphone
 #钉钉通知附件
 @@||oa.hnyixing.com.cn:9999/$app=com.alibaba.android.rimet
-#淘宝猜你喜欢
+#淘宝
+@@||litedetail-host.cn-wulanchabu.dualstack.log.aliyuncs.com^$app=com.taobao.litetao
 @@||ilce.alicdn.com^
 #小米路由器插件功能
 @@||www.gorouter.info^$app=com.xiaomi.router
@@ -77,7 +78,8 @@ i茅台云购
 #香肠派对看广告开宝箱
 @@||api-access.pangolin-sdk-toutiao.com^$app=com.sofunny.Sausage
 @@||api-access.pangolin-sdk-toutiao-b.com^$app=com.sofunny.Sausage
-#夸克网盘pc版下载
+#夸克
+@@||t.uc.cn^$app=com.quark.browser
 @@||pdds.ucweb.com^$important
 #集享联盟app领券中心
 @@||app.maxxipoint.com^$app=com.maxxipoint.android
