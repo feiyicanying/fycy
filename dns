@@ -1,7 +1,8 @@
-! Version: 20230331
+! Version: 20230421
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+@@||flash.cn^
 #淘宝
 @@||h5api.m.taobao.com^
 #饿了么
@@ -148,12 +149,6 @@
 @@||daohang1.oss-cn-beijing.aliyuncs.com^
 #淘宝浏览商品领奖励
 @@||mo.m.tmall.com^
-#下载flash
-@@||api.flash.cn^$important
-#加载flash官网
-@@||static.flash.cn^$important
-#flash中心
-@@||soft.flash.cn^$important
 #支付宝看15秒广告领消费金
 @@||tns.simba.taobao.com^
 #360网站信息检测
@@ -178,8 +173,6 @@
 @@||static.tieba.baidu.com^$important
 #下载百度网盘
 @@||issuecdn.baidupcs.com^$important
-#flash官网
-@@||www.flash.cn^$important
 #菜鸟裹裹快应用领取淘宝红包
 @@||temai.m.taobao.com^$important
 #百度百科演员表图片
