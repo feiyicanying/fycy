@@ -1,7 +1,9 @@
-! Version: 20230331
+! Version: 20230422
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#蜜雪冰城
+@@||mxsa.mxbc.net^$app=com.mxbc.mxsa
 #德克士app
 @@||app-api.dicos.com.cn^$app=com.dicos.prod
 #小米浏览器
@@ -33,6 +35,11 @@
 #QQ
 @@||otheve.beacon.qq.com^
 #优酷
+@@||cp31.ott.cibntv.net/*.mp4^$app=com.youku.phone
+@@||ykugc-vip.cp31.ott.cibntv.net^$app=com.youku.phone
+@@||m-vali.cp31.ott.cibntv.net^$app=com.youku.phone
+@@/amdc/mobileDispatch?appkey=*
+@@||ykugc.cp31.ott.cibntv.net^$app=com.youku.phone
 @@||vali01.cp31.ott.cibntv.net^$app=com.youku.phone
 #qq表情
 @@||tpstelemetry.tencent.com^$app=com.tencent.mobileqq
@@ -70,11 +77,6 @@ i茅台云购
 #小米应用商店ip
 @@||203.107.1.65^
 @@||203.107.1.34
-#优酷短视频
-@@||ykugc-vip.cp31.ott.cibntv.net^$app=com.youku.phone
-@@||m-vali.cp31.ott.cibntv.net^$app=com.youku.phone
-@@/amdc/mobileDispatch?appkey=*
-@@||ykugc.cp31.ott.cibntv.net^$app=com.youku.phone
 #香肠派对看广告开宝箱
 @@||api-access.pangolin-sdk-toutiao.com^$app=com.sofunny.Sausage
 @@||api-access.pangolin-sdk-toutiao-b.com^$app=com.sofunny.Sausage
@@ -119,7 +121,8 @@ gitee.com$@$script[tag-content="adsbygoogle"]
 @@&ad_type=$app=com.qiyi.video
 #支付宝商家服务-小店福利
 @@||air.1688.com^$app=com.eg.android.AlipayGphone
-#解决酷安闪退
+#酷安
+@@||log-api.pangolin-sdk-toutiao.com^$app=com.coolapk.market
 @@||api.coolapk.com/v6/main/indexV8$replace=/entities/sb/
 #苏州公交实时查询
 @@||app.2500.tv^$documentf
