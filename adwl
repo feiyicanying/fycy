@@ -1,7 +1,10 @@
-! Version: 20230422
+! Version: 20230426
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#小米路由器
+@@||miwifi.com^
+@@||www.gorouter.info^$document
 #蜜雪冰城
 @@||mxsa.mxbc.net^$app=com.mxbc.mxsa
 #德克士app
@@ -60,8 +63,6 @@ i茅台云购
 #淘宝
 @@||litedetail-host.cn-wulanchabu.dualstack.log.aliyuncs.com^$app=com.taobao.litetao
 @@||ilce.alicdn.com^
-#小米路由器插件功能
-@@||www.gorouter.info^$app=com.xiaomi.router
 #淘宝特卖
 @@||temai.m.taobao.com^$document
 #360百科手机版
@@ -177,5 +178,3 @@ gitee.com$@$script[tag-content="adsbygoogle"]
 @@||w.mail.qq.com^$document
 #QQ群
 @@||web.qun.qq.com^$document
-#小米路由器自定义hosts
-@@||www.gorouter.info^$document
