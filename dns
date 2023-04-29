@@ -1,7 +1,9 @@
-! Version: 20230421
+! Version: 20230430
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#百度地图
+@@||newclient.map.baidu.com^
 @@||flash.cn^
 #淘宝
 @@||h5api.m.taobao.com^
@@ -16,6 +18,7 @@
 #lastpass密码存储器
 @@||lastpass.com^$important
 #QQ
+@@||m.qpic.cn^
 @@||a.app.qq.com^
 @@||otheve.beacon.qq.com^
 @@||aeventlog.beacon.qq.com^
