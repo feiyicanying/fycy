@@ -1,4 +1,4 @@
-! Version: 20230430
+! Version: 20230505
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
@@ -168,8 +168,6 @@
 @@||pay.wsds.cn^$important
 #360官网
 @@||www.360.cn^$important
-#微信官网
-@@||weixin.qq.com^$important
 #360浏览器新建标签页
 @@||query.rec.360.cn^$important
 #百度网盘PC版登陆
