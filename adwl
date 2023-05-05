@@ -1,11 +1,11 @@
-! Version: 20230501
+! Version: 20230505
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #哔哩哔哩
 @@||app.bilibili.com^$important
 #小米路由器
-@@||miwifi.com^$important
+@@||miwifi.com^
 @@||www.gorouter.info^$important
 #蜜雪冰城
 @@||mxsa.mxbc.net^$app=com.mxbc.mxsa
