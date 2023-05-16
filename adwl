@@ -1,8 +1,11 @@
-! Version: 20230505
+! Version: 20230516
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #哔哩哔哩
+#集享联盟
+@@||zhx28.maxxipoint.com^$app=com.maxxipoint.android
+@@||app.maxxipoint.com^$app=com.maxxipoint.android
 #小米路由器
 @@||miwifi.com^
 @@||www.gorouter.info^$important
@@ -85,8 +88,6 @@ i茅台云购
 #夸克
 @@||t.uc.cn^$app=com.quark.browser
 @@||pdds.ucweb.com^$important
-#集享联盟app领券中心
-@@||app.maxxipoint.com^$app=com.maxxipoint.android
 #QQ浏览器小说章节读取
 @@||novel.html5.qq.com/be-api/content/ads-read$app=com.tencent.mtt
 #解决小米主题铃声闪退
