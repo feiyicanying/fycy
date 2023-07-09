@@ -1,8 +1,10 @@
-! Version: 20230516
+! Version: 20230709
 ! Title:adwl
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
 #哔哩哔哩
+@@||app.bilibili.com/x/v2/feed/index$replace=/ad_info//
+@@||app.bilibili.com/x/v2/feed/index$replace=/{"card_type":"cm_v2".+?}\,{"card_type"/{"card_type"/s
 #集享联盟
 @@||zhx28.maxxipoint.com^$app=com.maxxipoint.android
 @@||app.maxxipoint.com^$app=com.maxxipoint.android
