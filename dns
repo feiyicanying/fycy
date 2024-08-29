@@ -38,6 +38,7 @@
 @@||api*.e.kuaishou.com^
 @@||js.a.kspkg.com
 #夸克
+@@||drive-h.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||quark-api.uc.cn^
 @@||news.quark.cn^$important
