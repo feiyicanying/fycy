@@ -1,7 +1,11 @@
-! Version: 20241019
+! Version: 20251110
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#百度地图红绿灯倒数
+@@||ps.map.baidu.com^
+#oppo日历
+@@||i.magazine.heytapmobi.com^
 #小米商城售后保障
 @@||api.jr.mi.com^$important
 #百度地图
