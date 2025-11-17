@@ -2,6 +2,8 @@
 ! Title:dns
 ! Homepage:https://github.com/feiyicanying/fycy
 ! by:飞翼丶残影
+#OPPO主题商店
+@@||api-cn.theme.heytapmobi.com^
 #百度地图红绿灯倒数
 @@||ps.map.baidu.com^
 #oppo日历
@@ -10,7 +12,6 @@
 @@||api.jr.mi.com^$important
 #百度地图
 @@||newclient.map.baidu.com^
-@@||flash.cn^
 #淘宝
 @@||h5api.m.taobao.com^
 #饿了么
@@ -76,7 +77,6 @@
 #微软
 @@||microsoft.com^
 @@||yximgs.com^
-@@||_*_
 #微信
 @@||wxsnsdythumb.wxs.qq.com^
 @@||inews.gtimg.com^$important
@@ -101,8 +101,6 @@
 @@||i.snssdk.com^$important
 #抖音商品评价
 @@||aweme-lq.snssdk.com^$important
-#蜜雪冰城app2022年七夕活动
-@@76177.activity-12.m.duiba.com.cn
 #小米云服务同步数据
 @@||micloud.xiaomi.net^$important
 #4399游戏盒签到验证码
